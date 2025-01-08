@@ -22,7 +22,7 @@
 
 1. **Download the StreamFlix Code:**
 
-   - Go to the [StreamFlix GitHub repository](https://github.com/devopsinsiders/StreamFlix).
+   - Go to the [StreamFlix GitHub repository](https://github.com/CloudTechHacks/StreamFlix.git)).
    - Click the **Code** button, then select **Download ZIP**.
 2. **Extract the Code:**
 
