@@ -27,7 +27,7 @@
 5. **Clone the Starbucks Clone Repository:**
    - Clone the repository containing the build artifacts:
      ```sh
-     git clone https://github.com/devopsinsiders/starbucks-clone.git
+     git clone [https://github.com/clo/starbucks-clone.git](https://github.com/CloudTechHacks/Starbucks-clone.git)
      ```
 ![alt text](images/image-4.png)
 
